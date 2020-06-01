@@ -1,0 +1,16 @@
+figure(1)
+xlabel('x axis')
+ylabel('y axis')
+zlabel('z axis')
+title('fantastic building simulator')
+
+figure(2)
+xlabel('y axis')
+ylabel('z axis')
+title('slice view')
+
+figure(3)
+title('block visualization')
+xlabel('x axis')
+ylabel('y axis')
+zlabel('z axis')
